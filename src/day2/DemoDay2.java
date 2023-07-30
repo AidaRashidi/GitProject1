@@ -15,5 +15,13 @@ public class DemoDay2 {
 	// subtract
 	public static void suntract(int a , int b) {
 		System.out.println(a-b);
+
+
+		// Yasir 
+		public static void divided (int a, int b){
+		System.out.println(a/b);	
+
+
 	}
+	
 }
